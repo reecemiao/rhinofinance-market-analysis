@@ -1,0 +1,15 @@
+interface:
+  display_name: RhinoFinance Market Analysis
+  short_description: Macro, valuation, flows and actionable stock analysis
+  default_prompt: Use $rhinofinance-market-analysis to analyze today’s stock market
+    and my selected stocks, with evidence, valuation, price-volume signals, and clear
+    action triggers.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

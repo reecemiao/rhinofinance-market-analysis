@@ -1,0 +1,997 @@
+{
+  "review_date": "2026-09-19",
+  "file_count": 99,
+  "files": [
+    {
+      "index": 0,
+      "filename": "2026-09-18_美股-共识预期半导体无路可退QQQIWMAMDMETA_G_zzWcUSTfY.txt",
+      "filename_date": "2026-09-18",
+      "video_url": "https://www.youtube.com/watch?v=G_zzWcUSTfY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7351,
+      "retrieved_text_sha256": "ef3411dd5332c959840231b6033385fce6e211e952770924d8ce560ab6c27fb2"
+    },
+    {
+      "index": 1,
+      "filename": "2026-09-17_美股-美联储27年预期撕裂AI威胁叙事网络安全爆炒PANWCRWDFTNTMETA忘记讲看置顶评论_v88zbUVrp8w.txt",
+      "filename_date": "2026-09-17",
+      "video_url": "https://www.youtube.com/watch?v=v88zbUVrp8w",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8073,
+      "retrieved_text_sha256": "3532c5d67f93df2649b88f292275f9995b4978c5941b12b4cb5096fb4060a481"
+    },
+    {
+      "index": 2,
+      "filename": "2026-09-16_美股-NVDAMETA不同意AI放缓加息后标普利率走势SPYQQQSOXXSMH较差的情况跌至哪里_EB4-BTw4ETQ.txt",
+      "filename_date": "2026-09-16",
+      "video_url": "https://www.youtube.com/watch?v=EB4-BTw4ETQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6222,
+      "retrieved_text_sha256": "9311685b66422ff15926c37b4231b9b07c326aa91aa1b88e47eba30663883f7a"
+    },
+    {
+      "index": 3,
+      "filename": "2026-09-15_美股-三家巨头呼吁AI发展放缓半导体暴跌利好利空何去何从几个思考_fLKcWY1h45w.txt",
+      "filename_date": "2026-09-15",
+      "video_url": "https://www.youtube.com/watch?v=fLKcWY1h45w",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7519,
+      "retrieved_text_sha256": "b3d73dbedf8c330a0251d1a1a6185ac6c0937f89adccb41f7e99b9d7190196fc"
+    },
+    {
+      "index": 4,
+      "filename": "2026-09-12_美股-凯投宏观AI泡沫潜在破灭五个警告信号8月财政报告恶化利息飙升SOXX跟踪_71FEJcz9VCY.txt",
+      "filename_date": "2026-09-12",
+      "video_url": "https://www.youtube.com/watch?v=71FEJcz9VCY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7104,
+      "retrieved_text_sha256": "1dfa63f69777405484db1be48594198c04de6338c1e7b5e18ee8950ab00597c0"
+    },
+    {
+      "index": 5,
+      "filename": "2026-09-11_美股-ORCL缺乏惊喜ADBE底气不足SOXX遇阻IGV破位CTA触发标普承压VIX苏醒_dTQmi_hrOpU.txt",
+      "filename_date": "2026-09-11",
+      "video_url": "https://www.youtube.com/watch?v=dTQmi_hrOpU",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8109,
+      "retrieved_text_sha256": "6e8ea5439cce32f0da25fba95e9a97ba205cc543f519d629a14c127b48c5355a"
+    },
+    {
+      "index": 6,
+      "filename": "2026-09-10_美股-META大招豪赌AI代理对GOOGAMZN影响SOXX还需一天确认财政部回购不及预期AAPL开始折叠_N8BjausuEsI.txt",
+      "filename_date": "2026-09-10",
+      "video_url": "https://www.youtube.com/watch?v=N8BjausuEsI",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7943,
+      "retrieved_text_sha256": "c8d021e45a498c8e0a40efc9d9a22aa1f10a33b26fde6e3a730ad4bf708a2658"
+    },
+    {
+      "index": 7,
+      "filename": "2026-09-09_美股-对冲基金低仓位按兵不动AMD很猛SOXX临门金融XLF医疗XLVADBE财报押注_fLp8kUbv_u8.txt",
+      "filename_date": "2026-09-09",
+      "video_url": "https://www.youtube.com/watch?v=fLp8kUbv_u8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7432,
+      "retrieved_text_sha256": "4b3a96fdfd37bd3c6cf218fa0b25c26ce1ee6d7f80f69adb816468d02766a6ca"
+    },
+    {
+      "index": 8,
+      "filename": "2026-09-05_美股-OpenAI给半导体打鸡血SOXX底部已成ORCLAMDNVDATSLA遭行政狙击_bdzWer7gNII.txt",
+      "filename_date": "2026-09-05",
+      "video_url": "https://www.youtube.com/watch?v=bdzWer7gNII",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6178,
+      "retrieved_text_sha256": "d1bb9f2a480a80d53ec30cf93987639b9756c793152f300f82ccd6beb2068711"
+    },
+    {
+      "index": 9,
+      "filename": "2026-09-04_美股-TSLA突破强弱区间MSFT对AI货币化充满信心四大科技共振AMD成了之前的NVDA_vynRw9NT7TQ.txt",
+      "filename_date": "2026-09-04",
+      "video_url": "https://www.youtube.com/watch?v=vynRw9NT7TQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8520,
+      "retrieved_text_sha256": "d174be8120df925ffa4f2476f5e02e38b1c2c163a29b075954996dea088a9c21"
+    },
+    {
+      "index": 10,
+      "filename": "2026-09-03_美股-NVDA黄仁勋喊单奏效AVGO有惊无险PANW放缓代价褐皮书物价消费就业增长_RgGeU0w9GZo.txt",
+      "filename_date": "2026-09-03",
+      "video_url": "https://www.youtube.com/watch?v=RgGeU0w9GZo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6641,
+      "retrieved_text_sha256": "c2e75c485d885b1a39acc459541c4b4df8e88ab05eaee3ca99fd5badf6f05d0a"
+    },
+    {
+      "index": 11,
+      "filename": "2026-09-02_美股-QQQIWMSOXXSMH风险位置SPYIGV相对安全持仓计划更新_XdQF1csLbnk.txt",
+      "filename_date": "2026-09-02",
+      "video_url": "https://www.youtube.com/watch?v=XdQF1csLbnk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8642,
+      "retrieved_text_sha256": "b594b05f14a8f83b2e1dba1e96b7aa2c8d18779825b69bbd0a7f16c3ab5a6966"
+    },
+    {
+      "index": 12,
+      "filename": "2026-09-01_美股-最差9月CTA更新JPM战术转向减仓多头对冲基金上周仓位AMZN遭起诉掉块肉_4M7w7DR865M.txt",
+      "filename_date": "2026-09-01",
+      "video_url": "https://www.youtube.com/watch?v=4M7w7DR865M",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7454,
+      "retrieved_text_sha256": "0899dccf01118e863bdc7a62e9974c2b56497445fc9ade359cf4099ebdac1f65"
+    },
+    {
+      "index": 13,
+      "filename": "2026-08-29_美股-供应商循环融资裂痕NVDA后撤半导体逆转沃什大战贝森特_XJeU_be2gGU.txt",
+      "filename_date": "2026-08-29",
+      "video_url": "https://www.youtube.com/watch?v=XJeU_be2gGU",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6245,
+      "retrieved_text_sha256": "f962861b7584a6ed3def121efd4fd3a21a3b054f251428bd5f32b2438f0958bd"
+    },
+    {
+      "index": 14,
+      "filename": "2026-08-28_美股-罕见吸血半导体软件齐飞IGV暴涨突破剑指新高PLTRNOWMSFTCRWDMRVL财报_kXr89fM66C4.txt",
+      "filename_date": "2026-08-28",
+      "video_url": "https://www.youtube.com/watch?v=kXr89fM66C4",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8259,
+      "retrieved_text_sha256": "3382e815f265dcfb84e3d414cba44a49de40cc4dd439ee8cfd62258366279c42"
+    },
+    {
+      "index": 15,
+      "filename": "2026-08-27_美股-NVDA业绩强劲苦新高已久META官司和解CRM加速AI转型业绩上调_aiO11zglFjc.txt",
+      "filename_date": "2026-08-27",
+      "video_url": "https://www.youtube.com/watch?v=aiO11zglFjc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7252,
+      "retrieved_text_sha256": "1eb71a9ce3c3c827a95f5dd96a9ef8c2b407ace9f4dd8f700788dc54fac2ccab"
+    },
+    {
+      "index": 16,
+      "filename": "2026-08-26_美股-无聊行情即将结束回购债券的隐藏动机LULUNKEINTU_wz13N6Q4-tg.txt",
+      "filename_date": "2026-08-26",
+      "video_url": "https://www.youtube.com/watch?v=wz13N6Q4-tg",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6142,
+      "retrieved_text_sha256": "1e06c2c62c44960b84479bd01cf89101e802b419980b0684fd6b43e3e67e8200"
+    },
+    {
+      "index": 17,
+      "filename": "2026-08-25_美股-NVDAMRVLINTUCRWDCRM财报波动对冲基金上周大抛售大逆转Altman承认AI时间表看法错误_Z9T89cdzuyo.txt",
+      "filename_date": "2026-08-25",
+      "video_url": "https://www.youtube.com/watch?v=Z9T89cdzuyo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6625,
+      "retrieved_text_sha256": "8f9b9ead14ebc58477450ae54bcf33e06c7227c5ed7a21ea5aa4b075f5df4fc8"
+    },
+    {
+      "index": 18,
+      "filename": "2026-08-21_美股-WMT糟糕前瞻大跌还债ISRG无风起浪NOWSPCX美国债务累积95天走完200年_cwQxqL-vC94.txt",
+      "filename_date": "2026-08-21",
+      "video_url": "https://www.youtube.com/watch?v=cwQxqL-vC94",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6379,
+      "retrieved_text_sha256": "b809662934645c19c71036febc10329d7cd30313937091405e4f2b96f5eed5bb"
+    },
+    {
+      "index": 19,
+      "filename": "2026-08-20_美股-MRVL抢单AVGOAMD更新财政部加码回购债券为什么钱哪来QE吗_19S-O_bla-A.txt",
+      "filename_date": "2026-08-20",
+      "video_url": "https://www.youtube.com/watch?v=19S-O_bla-A",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6679,
+      "retrieved_text_sha256": "102ae6967e2e67749d567f8a04cf11658c6bb91a3ecf1bb5dab7ad429b9d7da3"
+    },
+    {
+      "index": 20,
+      "filename": "2026-08-19_美股-AI数据中心违约风险一览长债收益率19年新高SPYQQQSOXX-SMH重要位置HD维持前瞻_JmAgOc0hTwQ.txt",
+      "filename_date": "2026-08-19",
+      "video_url": "https://www.youtube.com/watch?v=JmAgOc0hTwQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6775,
+      "retrieved_text_sha256": "0b78f7af2293cc6ad240e6fe94b90d18bced618dfadf637396b985a5bf348240"
+    },
+    {
+      "index": 21,
+      "filename": "2026-08-18_美股-对冲基金最新仓位软件VS半导体SOXXIGVQQQMETAMSFT正常回撤_Am7QxgzrUek.txt",
+      "filename_date": "2026-08-18",
+      "video_url": "https://www.youtube.com/watch?v=Am7QxgzrUek",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6619,
+      "retrieved_text_sha256": "a2ca7936bb98c3cf878ccd408d561b75931b0805cd5aa5559583bfdb1f8c5c39"
+    },
+    {
+      "index": 22,
+      "filename": "2026-08-15_美股-机构二季度13-F加减仓哪些大空头Michael-Burry最新操作真的相当空_7IraEqi0ZKs.txt",
+      "filename_date": "2026-08-15",
+      "video_url": "https://www.youtube.com/watch?v=7IraEqi0ZKs",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6739,
+      "retrieved_text_sha256": "3e42aae710a2146311b7186a16ed55560f8b2059d2554bfd683718224679e782"
+    },
+    {
+      "index": 23,
+      "filename": "2026-08-13_美股-系统准备重新武装杠杆MSFT再跌一天修复半导体软件又跷跷板-CRWVNBISLITECOHRAPP再跟踪_8DY3zEBTFZ8.txt",
+      "filename_date": "2026-08-13",
+      "video_url": "https://www.youtube.com/watch?v=8DY3zEBTFZ8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7697,
+      "retrieved_text_sha256": "c1739f03511a8be1ec73587993df6a86aadbd59ba1dc6c6e5838f88aafbcacd2"
+    },
+    {
+      "index": 24,
+      "filename": "2026-08-12_美股-三个风险现在如何GOOG加速倒车软件IGV成分股跟踪ORCLPLTRCRMINTUAPPADBE_Fu_h7lMTYU8.txt",
+      "filename_date": "2026-08-12",
+      "video_url": "https://www.youtube.com/watch?v=Fu_h7lMTYU8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7666,
+      "retrieved_text_sha256": "cf0e18382990c7b1c9fb5a1602799c1350426ffbbe49f52db40b2a90c9f9e997"
+    },
+    {
+      "index": 25,
+      "filename": "2026-08-11_美股-NVDA再增5000亿循环融资MSFT下月加高护城河一只加仓计划BRK二季度加速回购_gN9uUJPqipo.txt",
+      "filename_date": "2026-08-11",
+      "video_url": "https://www.youtube.com/watch?v=gN9uUJPqipo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6913,
+      "retrieved_text_sha256": "9f27a763002867c2c66655014e0afc5f5342e16b436788667e50ee70c028b7bf"
+    },
+    {
+      "index": 26,
+      "filename": "2026-08-08_美股-NVDA完好NOW突破UNHSHOP更新前车之鉴直到2028数据中心绝不能大退潮对比互联网泡沫房地产浪潮_vXlqWhsJzxI.txt",
+      "filename_date": "2026-08-08",
+      "video_url": "https://www.youtube.com/watch?v=vXlqWhsJzxI",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8064,
+      "retrieved_text_sha256": "0597734e3f2d55350ecc77c04f930ef4c7dd79f717df24c74e4754ff1ec5dffe"
+    },
+    {
+      "index": 27,
+      "filename": "2026-08-07_美股-MSFT超买加顶背离GOOG债多了不愁NETDDOGUBERSPCX抛压不及预期_fkixxl86L_U.txt",
+      "filename_date": "2026-08-07",
+      "video_url": "https://www.youtube.com/watch?v=fkixxl86L_U",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6527,
+      "retrieved_text_sha256": "f7289b63a68e79308a12bf0426c4b59636edebf06141583a87225a686c2b48ce"
+    },
+    {
+      "index": 28,
+      "filename": "2026-08-06_美股-谁再推QQQ一把马斯克助NVDA重回正轨LLY完美业绩APP跌过头DIS平淡财报等待启动GOOG倒车SNDK前瞻不_8PHY8cjdZAY.txt",
+      "filename_date": "2026-08-06",
+      "video_url": "https://www.youtube.com/watch?v=8PHY8cjdZAY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7978,
+      "retrieved_text_sha256": "153eca39d8aa370416c17ddf60f3a05a6244eb6c883ee60bf34761c28e7714ea"
+    },
+    {
+      "index": 29,
+      "filename": "2026-07-31_美股-暴涨下跌结束了吗AMZN上调支出为何大涨AAPL强势业务拖后腿SOXXQQQ_MElmmd9ByYo.txt",
+      "filename_date": "2026-07-31",
+      "video_url": "https://www.youtube.com/watch?v=MElmmd9ByYo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8754,
+      "retrieved_text_sha256": "85346ffe42e3c21ddedc433f73c689bae04b6eebf62b6ba5b5553e3a3183a55e"
+    },
+    {
+      "index": 30,
+      "filename": "2026-07-29_美股-不要在这里做空SOXXTSLA新波段和长线AMDGLWNOWCTA巨浪抛售点更新_uIyfT_-lp6M.txt",
+      "filename_date": "2026-07-29",
+      "video_url": "https://www.youtube.com/watch?v=uIyfT_-lp6M",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9019,
+      "retrieved_text_sha256": "5a8670592359710df13056d3ce855aa65b7efa08084d1962c6c79f10cbefc0b3"
+    },
+    {
+      "index": 31,
+      "filename": "2026-07-28_美股-半导体多重冲击ASMLNVDA还行吗MSFTAAPLAMZNMETA财报波动_BFnI3bjo3tA.txt",
+      "filename_date": "2026-07-28",
+      "video_url": "https://www.youtube.com/watch?v=BFnI3bjo3tA",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9399,
+      "retrieved_text_sha256": "2745020ed0ba488ef61ded06a6ad3fde6441f18368eca83564e106dce7f10107"
+    },
+    {
+      "index": 32,
+      "filename": "2026-07-24_美股-大家一起连滚带爬GOOGQQQSPYSOXX补充INTC盘后镰刀这么急吗LMT小幅提升前瞻_tIItozASBrc.txt",
+      "filename_date": "2026-07-24",
+      "video_url": "https://www.youtube.com/watch?v=tIItozASBrc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9074,
+      "retrieved_text_sha256": "54afeae85810b8d28233799d1a2f25e4cdb4cc3712bdb16f9fb691b888aa8722"
+    },
+    {
+      "index": 33,
+      "filename": "2026-07-22_美股-半导体又行了四大科技继续跷跷板-CTA更新ORCL还有没有底_eI_tRH_svoU.txt",
+      "filename_date": "2026-07-22",
+      "video_url": "https://www.youtube.com/watch?v=eI_tRH_svoU",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6437,
+      "retrieved_text_sha256": "2a70b10992ce026bee933ba7a341a7851331a3cf0d406385773a8489be6c2c5a"
+    },
+    {
+      "index": 34,
+      "filename": "2026-07-22_美股-GOOG云收入暴涨27年资本支出守口如瓶TSLA业绩增长遇阻IBMNOWTXN_L0-7XCbYi00.txt",
+      "filename_date": "2026-07-22",
+      "video_url": "https://www.youtube.com/watch?v=L0-7XCbYi00",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8836,
+      "retrieved_text_sha256": "b2c1314010661494182fa8ce16ae47cab1d18a0c88f78a6d67676f9d3fe934d8"
+    },
+    {
+      "index": 35,
+      "filename": "2026-07-20_美股-GOOG本周看你了计划内加仓一只个股TSLA安安静静回落TXN财报生死局_xqaw43SLhEo.txt",
+      "filename_date": "2026-07-20",
+      "video_url": "https://www.youtube.com/watch?v=xqaw43SLhEo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7648,
+      "retrieved_text_sha256": "8c4ebe4496bb7d3e6657a3b88af7d4f06330f0197af07df1c135e5a8d380645c"
+    },
+    {
+      "index": 36,
+      "filename": "2026-07-16_美股-半导体进一步退两步陷阱还是机会ASMLTSM上调前瞻仍下跌NFLXISRG财报表演双人跳水MUSNDK_HMWl5Vyvn48.txt",
+      "filename_date": "2026-07-16",
+      "video_url": "https://www.youtube.com/watch?v=HMWl5Vyvn48",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 12527,
+      "retrieved_text_sha256": "9e67065929c6778b866805d8f4185c56652a3dd1ddbef4217ecf4f202c985a0e"
+    },
+    {
+      "index": 37,
+      "filename": "2026-07-10_美股-META人工智能模型跳楼价SBUXIBMMSFT_edbeWlDeOLo.txt",
+      "filename_date": "2026-07-10",
+      "video_url": "https://www.youtube.com/watch?v=edbeWlDeOLo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6681,
+      "retrieved_text_sha256": "67c033c64209210a2245fceb91b255591605d9c4a5e3b5ca961703b9a40f885e"
+    },
+    {
+      "index": 38,
+      "filename": "2026-07-09_美股-聪明钱准备不加码AI投资XLKXLBXLY点位提醒COST同店增长大幅放缓SOXX不破位了_ni22oYKaut4.txt",
+      "filename_date": "2026-07-09",
+      "video_url": "https://www.youtube.com/watch?v=ni22oYKaut4",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6835,
+      "retrieved_text_sha256": "15408f55f80eb5f6a558ff5c8eadae64f7eb9133f0c224306a967b9ac8b007e1"
+    },
+    {
+      "index": 39,
+      "filename": "2026-07-08_美股-SOXX确认破位回撤大盘还未避险AMZNAMATLRCXSPCX疯狂62-800评级收盘新低SPYQQQ_a7NFWgr-ISY.txt",
+      "filename_date": "2026-07-08",
+      "video_url": "https://www.youtube.com/watch?v=a7NFWgr-ISY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8282,
+      "retrieved_text_sha256": "ad918c466536169cff9e1d891244d7852a9bed94efe3d266c14307da38cb287e"
+    },
+    {
+      "index": 40,
+      "filename": "2026-07-07_美股-三星砸存储成惊弓之鸟IGV难得突破高看ASMLAVGOAMDNVDATSM暂无减仓计划_J675oIrD9vY.txt",
+      "filename_date": "2026-07-07",
+      "video_url": "https://www.youtube.com/watch?v=J675oIrD9vY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8913,
+      "retrieved_text_sha256": "194368277e9db187bba3c141ba268e574e1ef234b74dc7bda804995c8ca0939e"
+    },
+    {
+      "index": 41,
+      "filename": "2026-07-03_美股-大空头半导体跌30MRVLMUSNDK市场调仓流动性风险TSLA波段蹦极太快了下周起节目时间变更通知_4aWmz0Eb8lk.txt",
+      "filename_date": "2026-07-03",
+      "video_url": "https://www.youtube.com/watch?v=4aWmz0Eb8lk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9034,
+      "retrieved_text_sha256": "98a9ecf87993ff1dcc08a7e30f10c6c4f6dd00eb93e6634e17135e48dbf83906"
+    },
+    {
+      "index": 42,
+      "filename": "2026-07-02_美股-META重挫半导体打响资本支出裂痕第一枪IGV个股只看放量的PLTRAPPNOW_6B5uh-9C8kI.txt",
+      "filename_date": "2026-07-02",
+      "video_url": "https://www.youtube.com/watch?v=6B5uh-9C8kI",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8133,
+      "retrieved_text_sha256": "a58a507f064a3d4a495914632fdf0a79cda0fd31802e0e1646ddd51ef2ffb32f"
+    },
+    {
+      "index": 43,
+      "filename": "2026-06-27_美股-画风突变软件行了大盘抛售破位风险未解除半导体横盘2周MSFT略硬辛苦GOOG_Mh54eRsTm9c.txt",
+      "filename_date": "2026-06-27",
+      "video_url": "https://www.youtube.com/watch?v=Mh54eRsTm9c",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 10232,
+      "retrieved_text_sha256": "694e4a0d2fddc28861da82ada4d2b0a74db1d0a9febfc8dc385c1e6a11c6665c"
+    },
+    {
+      "index": 44,
+      "filename": "2026-06-26_美股-MU业绩爆表峰值预测在哪四大科技花钱挨揍到底还有没有王法了_rpxuSaJ1pdw.txt",
+      "filename_date": "2026-06-26",
+      "video_url": "https://www.youtube.com/watch?v=rpxuSaJ1pdw",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7644,
+      "retrieved_text_sha256": "a019a4f8b6ea67b7055d189afe5649e31849e145694c795995f1855b1cb14e57"
+    },
+    {
+      "index": 45,
+      "filename": "2026-06-24_美股-多空都别慌跌幅不够杀伤不够三股抛压洪流逐步逼近SPYQQQSOXXSMH更新MU财报期权押注很疯狂_vddYtCWZ2CE.txt",
+      "filename_date": "2026-06-24",
+      "video_url": "https://www.youtube.com/watch?v=vddYtCWZ2CE",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8132,
+      "retrieved_text_sha256": "1beabf8d39ae00ddfd5b5a26f051ce0268c27cfa10918ddd12b68d17cbce7f77"
+    },
+    {
+      "index": 46,
+      "filename": "2026-06-23_美股-四大科技凉了吗GOOGAMZNMSFTMETA行政令推量子加速IBM6月跌7月涨_iWGjM9UPErc.txt",
+      "filename_date": "2026-06-23",
+      "video_url": "https://www.youtube.com/watch?v=iWGjM9UPErc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8519,
+      "retrieved_text_sha256": "01be83c7583c56085c66a66a63596f6db358b5a9473ab8199b7062c5275ea867"
+    },
+    {
+      "index": 47,
+      "filename": "2026-06-19_美股-小点声AI行业正在拐弯Token使用服务器租赁价格大跌未来两周酱油且混乱和基本面无关SPCX发债筹码交换_SAmPvlm_JQg.txt",
+      "filename_date": "2026-06-19",
+      "video_url": "https://www.youtube.com/watch?v=SAmPvlm_JQg",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8156,
+      "retrieved_text_sha256": "ea50f0c834547b3a9c28e3bf4adc173f9328e81993a7f4c942180b87f81a4bf2"
+    },
+    {
+      "index": 48,
+      "filename": "2026-06-18_美股-新鹰派美联储撤回指引不预判NFLXISRG还建吗SPCX新赌场明天上线_8j_ryWAcTWE.txt",
+      "filename_date": "2026-06-18",
+      "video_url": "https://www.youtube.com/watch?v=8j_ryWAcTWE",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9659,
+      "retrieved_text_sha256": "466fcb58b6ebec4095d85f3433bc7b12686f5be7f36a1e8033e8da3ec84eb002"
+    },
+    {
+      "index": 49,
+      "filename": "2026-06-17_美股-你不买我不买都看戏SPCX吸血期权看点SOXX大跌更新MSFT取消ORCL租用协议_N4My1EBsdU0.txt",
+      "filename_date": "2026-06-17",
+      "video_url": "https://www.youtube.com/watch?v=N4My1EBsdU0",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6353,
+      "retrieved_text_sha256": "d37705acbbadfac9ca8de15c052740bbc23355aaa69d919aecbaee908740e27f"
+    },
+    {
+      "index": 50,
+      "filename": "2026-06-16_美股-NVDA不缺钱为何发债SPCX两个19真猛强势板块继续被挤压AXP收购利好_kzXnVeMEhaI.txt",
+      "filename_date": "2026-06-16",
+      "video_url": "https://www.youtube.com/watch?v=kzXnVeMEhaI",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6777,
+      "retrieved_text_sha256": "b86ff596a8f985f427d4749b5f096cca809f8cdaae9c9e1dcbc090dc8b86cbcb"
+    },
+    {
+      "index": 51,
+      "filename": "2026-06-13_美股-SPCX后续几个重要时间点纳指100调整ALABCRWVNBISRKLBTER对冲基金猛打方向盘_gOJ_XkhYuKw.txt",
+      "filename_date": "2026-06-13",
+      "video_url": "https://www.youtube.com/watch?v=gOJ_XkhYuKw",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7382,
+      "retrieved_text_sha256": "049aef375152124b8504dc3e38b8c52081b6e10445f13eda3fa58fe74c07bbb3"
+    },
+    {
+      "index": 52,
+      "filename": "2026-06-12_美股-SPCX明天正式开赌CTA点位上移个股简单过一下_AeDxXylW3yo.txt",
+      "filename_date": "2026-06-12",
+      "video_url": "https://www.youtube.com/watch?v=AeDxXylW3yo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6707,
+      "retrieved_text_sha256": "565027b3587813cb100b608198e1f347c6e6b5f962f56180e96b12cc65fa138a"
+    },
+    {
+      "index": 53,
+      "filename": "2026-06-11_美股-开局一样结局不同SOXX异常暂不要看太空SPYQQQ哪里埋伏ORCL虱子多了不怕咬_Rh11N0XAgEc.txt",
+      "filename_date": "2026-06-11",
+      "video_url": "https://www.youtube.com/watch?v=Rh11N0XAgEc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6747,
+      "retrieved_text_sha256": "c96977154cd76a857871340d37b73a62cf4581297dc391b7f370a3786a106a6d"
+    },
+    {
+      "index": 54,
+      "filename": "2026-06-10_美股-多空胜负未付SOXX剩2天自救IGV区间震荡更新AMDORCLPLTR担心MSFT的如何保护_3NTCCjzOzuQ.txt",
+      "filename_date": "2026-06-10",
+      "video_url": "https://www.youtube.com/watch?v=3NTCCjzOzuQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9763,
+      "retrieved_text_sha256": "538ba252fa5b8d168fb6e3b0d7455097a990a1895e63eb4cbec9ef7eaa543329"
+    },
+    {
+      "index": 55,
+      "filename": "2026-06-09_美股-纳指大涨反转还是死猫跳投行多空分歧明显SOXX暂未破位风险事件越来越近_PCCB4Kar0G8.txt",
+      "filename_date": "2026-06-09",
+      "video_url": "https://www.youtube.com/watch?v=PCCB4Kar0G8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8722,
+      "retrieved_text_sha256": "c12d2731fc000ecbc1f20070cddb4a1496763d91d8081796d601f5522715fa73"
+    },
+    {
+      "index": 56,
+      "filename": "2026-06-06_美股-三个推手引半导体暴跌后市看法-SOXXSMHMETAMSFTTSLA等_2c2dLCaCjzQ.txt",
+      "filename_date": "2026-06-06",
+      "video_url": "https://www.youtube.com/watch?v=2c2dLCaCjzQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9568,
+      "retrieved_text_sha256": "420ce1341f73b5fd1bd4ec1aa12b25fdcc7e851bb9453ee33cad2bb18c15cf09"
+    },
+    {
+      "index": 57,
+      "filename": "2026-06-05_美股-标普拒绝SPCX快速纳入SOXXSMH大动静位置更新投行上调UNH注意接近目标_XhVljidKI9E.txt",
+      "filename_date": "2026-06-05",
+      "video_url": "https://www.youtube.com/watch?v=XhVljidKI9E",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8404,
+      "retrieved_text_sha256": "b5d4416955deac38c25cf48ecfd7a38ff4a4e11ff814facb057e0e8b6926358d"
+    },
+    {
+      "index": 58,
+      "filename": "2026-06-04_美股-NFLX八连跌ISRGTSLAAMZNNVDAMSFT到站AVGO前瞻失误CRWD高估回吐_s9eZ3_5v2tA.txt",
+      "filename_date": "2026-06-04",
+      "video_url": "https://www.youtube.com/watch?v=s9eZ3_5v2tA",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 10405,
+      "retrieved_text_sha256": "440f64bfc15a515ac1f5aee82d7cc379db1041361197ff68f9e15bfc1f16a2c5"
+    },
+    {
+      "index": 59,
+      "filename": "2026-06-03_美股-MRVL再次引爆半导体MSFT反转走弱IGVPANWCRWDAVGOGOOG募资历史意义_IjI3_YhulnY.txt",
+      "filename_date": "2026-06-03",
+      "video_url": "https://www.youtube.com/watch?v=IjI3_YhulnY",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8393,
+      "retrieved_text_sha256": "4e074a36e162f8a2648620812c1f0c2f68a622ebf950fa270813d0c1723cd44a"
+    },
+    {
+      "index": 60,
+      "filename": "2026-06-02_美股-NVDA携手MSFT造半导体分化GOOGMETATSLA怎么了软件IGV还是大腿CTA卖盘触发再上移_iBCzFp78Pg0.txt",
+      "filename_date": "2026-06-02",
+      "video_url": "https://www.youtube.com/watch?v=iBCzFp78Pg0",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9258,
+      "retrieved_text_sha256": "00312477c95d1f9517a8bae1d181fb6ad4ca451fd250f2440e0303b2b20f3bb0"
+    },
+    {
+      "index": 61,
+      "filename": "2026-05-30_美股-IGV软件爆发还涨吗能追吗软件重点个股点位MSFTPLTRORCLIBM等尾盘走势今天不算_9j0I-CW-Zys.txt",
+      "filename_date": "2026-05-30",
+      "video_url": "https://www.youtube.com/watch?v=9j0I-CW-Zys",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8334,
+      "retrieved_text_sha256": "cd0359f9a9e70af0a7843f8814aa711ff6526a84b2d92485b889889ae9d7255d"
+    },
+    {
+      "index": 62,
+      "filename": "2026-05-29_美股-皆大欢喜的一天ISRG慢慢等LLY回归SNOW爆破MSFT放量软件普涨_NSMf7BkBNgo.txt",
+      "filename_date": "2026-05-29",
+      "video_url": "https://www.youtube.com/watch?v=NSMf7BkBNgo",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7419,
+      "retrieved_text_sha256": "2d33c4b5812d204333a1a560f57b4f028ae15c7f39e1de557ef4ace6df0311cc"
+    },
+    {
+      "index": 63,
+      "filename": "2026-05-28_美股-TSLA短期强弱细分SOX止步5连涨MRVL形态警告CRM财报喜忧参半METAAMZN高盛上调标普至8000_A7xw4uSGYzM.txt",
+      "filename_date": "2026-05-28",
+      "video_url": "https://www.youtube.com/watch?v=A7xw4uSGYzM",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8034,
+      "retrieved_text_sha256": "e6e74202577c6ea6c26e4da8c5da9b179bb53ada731d8323b9aae0c85d59da96"
+    },
+    {
+      "index": 64,
+      "filename": "2026-05-27_美股-TSLA蓄势待发存储独霸MU破万亿标普11个板块谁在等突破_7WquJehZBIk.txt",
+      "filename_date": "2026-05-27",
+      "video_url": "https://www.youtube.com/watch?v=7WquJehZBIk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7832,
+      "retrieved_text_sha256": "508f43b17f8dc6d278fb2afa636b96ce1b0c1a1c542e69f32407b4dde690579b"
+    },
+    {
+      "index": 65,
+      "filename": "2026-05-23_美股-期权极端Skew再现疯狂打CallSMHSOXXIGV近期新高12类对冲基金收益加速_jj3U7Iu7fVs.txt",
+      "filename_date": "2026-05-23",
+      "video_url": "https://www.youtube.com/watch?v=jj3U7Iu7fVs",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7036,
+      "retrieved_text_sha256": "9daeef2df2421bea5c326f74f32e4d87fb8b774a07fd7810c3f0c52b7611b130"
+    },
+    {
+      "index": 66,
+      "filename": "2026-05-22_美股-IBM下一个MP和INTC分化明显共同基金加半导体对冲基金挺软件GOOG持仓计划更新_8lih6xbGcC8.txt",
+      "filename_date": "2026-05-22",
+      "video_url": "https://www.youtube.com/watch?v=8lih6xbGcC8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8036,
+      "retrieved_text_sha256": "b8db85e3712e59f75e6feb3952dda21e3d269857f520e73c337c24f719283401"
+    },
+    {
+      "index": 67,
+      "filename": "2026-05-21_美股-对冲基金空头10年新高散户大战华尔街2-0NVDA财报超预期小跌-INTU业绩超预期暴跌SPCX要来了_tfjxtVIWaEk.txt",
+      "filename_date": "2026-05-21",
+      "video_url": "https://www.youtube.com/watch?v=tfjxtVIWaEk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8665,
+      "retrieved_text_sha256": "c0c5886da71d286aa5921597432d7d9c1c9becb61b89475774bf2a29cde55a9a"
+    },
+    {
+      "index": 68,
+      "filename": "2026-05-20_美股-TSLA险守中场SOXXSMH破位更新AMD力挽狂澜HD维持前瞻缓缓到站-30年国债收益率接近2007年金融危机高_qyyQuM9GHwE.txt",
+      "filename_date": "2026-05-20",
+      "video_url": "https://www.youtube.com/watch?v=qyyQuM9GHwE",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7834,
+      "retrieved_text_sha256": "5ff7a7e953df6bb01dbab3b7da537d873e4df3f98095dac25e8c385eb9f8469c"
+    },
+    {
+      "index": 69,
+      "filename": "2026-05-19_美股-NVDA对比AMD为何不贵半导体再回吐Put保护大增马斯克败诉BRK清仓UNH更新_4oOvWNvtGSs.txt",
+      "filename_date": "2026-05-19",
+      "video_url": "https://www.youtube.com/watch?v=4oOvWNvtGSs",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9229,
+      "retrieved_text_sha256": "828214ad8a910cdca1d3b7f1838d323dac13889ccd18674d2dba18b8061837a9"
+    },
+    {
+      "index": 70,
+      "filename": "2026-05-16_美股-债券呲牙股市承压后市三个看点软件轧空风险6年新高MSFTNVDATSLA_jF1gyo-wr5s.txt",
+      "filename_date": "2026-05-16",
+      "video_url": "https://www.youtube.com/watch?v=jF1gyo-wr5s",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8915,
+      "retrieved_text_sha256": "02053a663a4bfe51086a48743d1ffad809208a18ae05673258bbe098222f2e77"
+    },
+    {
+      "index": 71,
+      "filename": "2026-05-15_美股-一只减仓计划NVDA贡献指数一半涨幅BA订单不及预期三个投机爱好者画像_GbSsP4Zkc_Q.txt",
+      "filename_date": "2026-05-15",
+      "video_url": "https://www.youtube.com/watch?v=GbSsP4Zkc_Q",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8723,
+      "retrieved_text_sha256": "6a80f23413544ea30d45ec95b1e2074f7a1427aa59a1cb3f18b1115868a21bda"
+    },
+    {
+      "index": 72,
+      "filename": "2026-05-14_美股-半导体追逐大写的服-NVDA末班机6连涨MSFT怎么又睡着了30年国债惨淡拍卖追上2008金融危机前夜_Q_sHVBuPv9Y.txt",
+      "filename_date": "2026-05-14",
+      "video_url": "https://www.youtube.com/watch?v=Q_sHVBuPv9Y",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7776,
+      "retrieved_text_sha256": "5db726f743a965b8bc57286a2f216103941bc2dfef992444304a67368d2c8571"
+    },
+    {
+      "index": 73,
+      "filename": "2026-05-13_美股-SOXXSMHQCOMQQQSPY更新散户强投机重回熊市前2021_jPGbSez_9N8.txt",
+      "filename_date": "2026-05-13",
+      "video_url": "https://www.youtube.com/watch?v=jPGbSez_9N8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7645,
+      "retrieved_text_sha256": "9641e201d6f1e38fcdeaaa2609e590bb7e3efef162f7465fe3132619b3fe7f3e"
+    },
+    {
+      "index": 74,
+      "filename": "2026-05-12_美股-TSLABANVDA异动Trump访华随访公司利好一只加仓计划_t2gFRHMXyg8.txt",
+      "filename_date": "2026-05-12",
+      "video_url": "https://www.youtube.com/watch?v=t2gFRHMXyg8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8750,
+      "retrieved_text_sha256": "5d1d5b071da11c64aa3c5bc45bff8d417f3c0ba9a399bda67abc36695a7a6490"
+    },
+    {
+      "index": 75,
+      "filename": "2026-05-09_美股-半导体吸干流动性AI大市值超标普402000年历史会重演吗AAPL吃INTC回头草抄底会员通知_FonXCJnDQoQ.txt",
+      "filename_date": "2026-05-09",
+      "video_url": "https://www.youtube.com/watch?v=FonXCJnDQoQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 10191,
+      "retrieved_text_sha256": "76b1c510239c54bd80a780c69387fcdd545c56d3ef22a93bc3d31c3cc8c178f0"
+    },
+    {
+      "index": 76,
+      "filename": "2026-05-08_美股-TSLA的变数DDOG助软件IGV突破MSFTNVDA耐心MCD心里苦说不出_CZLnSY4WSUc.txt",
+      "filename_date": "2026-05-08",
+      "video_url": "https://www.youtube.com/watch?v=CZLnSY4WSUc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7614,
+      "retrieved_text_sha256": "be57d57b131582c5b1b6c0810bb83ce44d4fa939c2a0d465dba0e428244f8411"
+    },
+    {
+      "index": 77,
+      "filename": "2026-05-07_美股-NVDA热身别嫌少MUSNDK高吗谁在买三种走势判断_cPaNOwZs6J4.txt",
+      "filename_date": "2026-05-07",
+      "video_url": "https://www.youtube.com/watch?v=cPaNOwZs6J4",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8201,
+      "retrieved_text_sha256": "e16a489bf17188c30f4689c28d876b1b329f115a2f48873060cfe2357481e4ca"
+    },
+    {
+      "index": 78,
+      "filename": "2026-05-06_美股-AMD先跌再顶格暴涨NVDA偷偷完美修复PLTRINTC你可真眼熟广度极端后的短中期回报_IAeFeheWYNE.txt",
+      "filename_date": "2026-05-06",
+      "video_url": "https://www.youtube.com/watch?v=IAeFeheWYNE",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9384,
+      "retrieved_text_sha256": "32a68dad3ebd5002474a18d454609bef2b53a0557a53d4ba2c75c3a2e4547392"
+    },
+    {
+      "index": 79,
+      "filename": "2026-05-02_美股-广度极差低价补涨还是高价暴跌四大科技资本支出总结METAAMZNMSFTGOOG最新目标价_lNbyi_hqSuc.txt",
+      "filename_date": "2026-05-02",
+      "video_url": "https://www.youtube.com/watch?v=lNbyi_hqSuc",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7788,
+      "retrieved_text_sha256": "8e6195209e6b71cd7459ee5dc0397cf0d463f2ec4dae630af3701e243b15ac07"
+    },
+    {
+      "index": 80,
+      "filename": "2026-05-01_美股-嘴拉QCOM突破大款AAPL掏出一卡车现金大家分LLY大幅提升前瞻散户追涨CTA转小卖_PgnInyAcQxg.txt",
+      "filename_date": "2026-05-01",
+      "video_url": "https://www.youtube.com/watch?v=PgnInyAcQxg",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8142,
+      "retrieved_text_sha256": "44f1319face908fd1688747c5d3be5d1b8e8d105f2b4181fd01f5459b8f6a7dc"
+    },
+    {
+      "index": 81,
+      "filename": "2026-04-30_美股-GOOGAMZNMETAMSFT三家上调资本支出两家现金流枯竭26年AI驱动叙事继续_9pk03lXg7YU.txt",
+      "filename_date": "2026-04-30",
+      "video_url": "https://www.youtube.com/watch?v=9pk03lXg7YU",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9436,
+      "retrieved_text_sha256": "910c5fb6a40cfd052d11960531082736a0224345b39c11367f6bb2e0ad08fe6f"
+    },
+    {
+      "index": 82,
+      "filename": "2026-04-29_美股-OpenAI鬼故事吓得半导体眨眼睛-GOOGAMZNMSFTMETA财报押注AMDSOXXSMH更新阿联酋突然退群_05yoQ-glkHI.txt",
+      "filename_date": "2026-04-29",
+      "video_url": "https://www.youtube.com/watch?v=05yoQ-glkHI",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6622,
+      "retrieved_text_sha256": "09e13a187b87b7899761ca085025ac30ca6bbffbdf13ba385cc61a1b6483e242"
+    },
+    {
+      "index": 83,
+      "filename": "2026-04-28_美股-SOXXSMH见顶了吗NVDAAMD灵魂互换MSFT财报波动CTA重仓看戏_p1tOp5AqXD0.txt",
+      "filename_date": "2026-04-28",
+      "video_url": "https://www.youtube.com/watch?v=p1tOp5AqXD0",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6774,
+      "retrieved_text_sha256": "cdc9a2e7f4f12401da553abae09aa82b75b69367ee2913c2aafc8c6c0849f3be"
+    },
+    {
+      "index": 84,
+      "filename": "2026-04-24_美股-NVDA收盘新高TSM多头基金憋坏了-MSFTAMDLLYTSLA充满变数的周末_2TQuzRj-Hh8.txt",
+      "filename_date": "2026-04-24",
+      "video_url": "https://www.youtube.com/watch?v=2TQuzRj-Hh8",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6435,
+      "retrieved_text_sha256": "be4d03eca398c329ffd48e307d25f21c61ac5df13febd84a02ef99be71ed86e4"
+    },
+    {
+      "index": 85,
+      "filename": "2026-04-24_美股-MSFT计划内上车INTCAMD暴涨NFLX加码回购下周资金趋势偏空蟑螂美士兵内幕交易被抓_IiXv582pzAw.txt",
+      "filename_date": "2026-04-24",
+      "video_url": "https://www.youtube.com/watch?v=IiXv582pzAw",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 8620,
+      "retrieved_text_sha256": "58b640f32dbd159944b6c633029d7a4a5951ee445efe0b03dcbb7bf653ee82cc"
+    },
+    {
+      "index": 86,
+      "filename": "2026-04-23_美股-TSLA确认26自由现金流转负NOW砸盘IGVMSFT突破蹲个回撤新高AMDAMZN继续股票原油债券各走各的_eNcDEV2TV1o.txt",
+      "filename_date": "2026-04-23",
+      "video_url": "https://www.youtube.com/watch?v=eNcDEV2TV1o",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 9352,
+      "retrieved_text_sha256": "a4ecb1257ae23a4465d35e76cdfae86c0c9393871028a143a20b1f74b34e350d"
+    },
+    {
+      "index": 87,
+      "filename": "2026-04-22_美股-停火又又又延期JPM上调大盘至7600IGV试探更新ISRG暂无加仓计划_e80REZkHmyk.txt",
+      "filename_date": "2026-04-22",
+      "video_url": "https://www.youtube.com/watch?v=e80REZkHmyk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 6596,
+      "retrieved_text_sha256": "95f4b4ea2b15ccb29f22175751969650dc3eb54846f3de629fe729535ed5c4e4"
+    },
+    {
+      "index": 88,
+      "filename": "2026-04-18_美股-注意CTA下周放缓TSM前路高看TSLA财报后波动META更新MSFT临门一脚试探_kTFeiYQLLRk.txt",
+      "filename_date": "2026-04-18",
+      "video_url": "https://www.youtube.com/watch?v=kTFeiYQLLRk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": true,
+      "retrieved_characters": 7557,
+      "retrieved_text_sha256": "f674d839bc462274c26eca1fe43562894ac66c0de8876b692988fe9628cb53c4"
+    },
+    {
+      "index": 89,
+      "filename": "2026-06-30_美股-大盘练柔术凹进去凸出来MUAVGOMRVLGOOGTSLASPCXRKLBIGV反弹乐观能走多远_sa78kwXZJmw.txt",
+      "filename_date": "2026-06-30",
+      "video_url": "https://www.youtube.com/watch?v=sa78kwXZJmw",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 7362,
+      "retrieved_text_sha256": "bc464fff573515e7794e2f6bc15cdf67385578f973f33c2c6ac68f62a0819285"
+    },
+    {
+      "index": 90,
+      "filename": "2026-07-13_美股-泡沫如何引发AI债务资本支出货币化-SOXXSMH追逐投机韩国32万散户人生被强平_m2ECCrtl2Tk.txt",
+      "filename_date": "2026-07-13",
+      "video_url": "https://www.youtube.com/watch?v=m2ECCrtl2Tk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 6873,
+      "retrieved_text_sha256": "6042c1845a50664197c538ed7bd12191aa218996d8e970ae784e64dbde8dec37"
+    },
+    {
+      "index": 91,
+      "filename": "2026-04-17_美股-AMD拉新高NVDA低波动ASML长牛不变NFLX前瞻全面不及预期本周散户买了啥_7uMOixiI3Rk.txt",
+      "filename_date": "2026-04-17",
+      "video_url": "https://www.youtube.com/watch?v=7uMOixiI3Rk",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 8317,
+      "retrieved_text_sha256": "c4e31de2f55c0c86ab6064fab74bf0b94088abd3feeff61e0ca7f91c7abfeb56"
+    },
+    {
+      "index": 92,
+      "filename": "2026-07-30_美股-MSFT不跟风AI货币化顺利META继续燃烧自己沃什凭一己之力干翻市场超额收益SPYQQQ越来越近SOXX新变化叠_G7tU5l484JA.txt",
+      "filename_date": "2026-07-30",
+      "video_url": "https://www.youtube.com/watch?v=G7tU5l484JA",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 8777,
+      "retrieved_text_sha256": "7ee83fdadeffe8fda45dfd57db5159f5aaf429b0bb4cf1bceeba61b84a623b0e"
+    },
+    {
+      "index": 93,
+      "filename": "2026-07-15_美股-IBM历史暴跌抬庄半导体IGV居然挺着ISRG被同行利空砸ASML财报波动CPI低于预期__QAe6h9_ycs.txt",
+      "filename_date": "2026-07-15",
+      "video_url": "https://www.youtube.com/watch?v=_QAe6h9_ycs",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 7097,
+      "retrieved_text_sha256": "b9bcca1f6f59e61ad8634d2e23ba8735bded52069b4d04c1805a677d9f566bb4"
+    },
+    {
+      "index": 94,
+      "filename": "2026-08-14_美股-罕见IGV压-SOXX一头NFLX止跌雄起了吗TSLAWMTSNDK_MFB-Fp4F15A.txt",
+      "filename_date": "2026-08-14",
+      "video_url": "https://www.youtube.com/watch?v=MFB-Fp4F15A",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 6610,
+      "retrieved_text_sha256": "43f76f98c2ed3aac440ece155d6ebe12353f6e691e326a9351bde8215e3e98fd"
+    },
+    {
+      "index": 95,
+      "filename": "2026-07-01_美股-6月收关科技不领涨消费股怎么了MCDNKECOSTWMT_sWSsmljlgJg.txt",
+      "filename_date": "2026-07-01",
+      "video_url": "https://www.youtube.com/watch?v=sWSsmljlgJg",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 7177,
+      "retrieved_text_sha256": "b8e637d59dbfb45d57fd1484539cf689c1a3b3d357071864efd802a9a924dcc6"
+    },
+    {
+      "index": 96,
+      "filename": "2026-04-21_美股-慢下来等消息IGV潜在更大轧空在哪注意SOXX和SMH_8-jXsrm5tZQ.txt",
+      "filename_date": "2026-04-21",
+      "video_url": "https://www.youtube.com/watch?v=8-jXsrm5tZQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 6090,
+      "retrieved_text_sha256": "543b3ebb569a42633e986c2ed7052889fb7f0eb98533cf99e5475742f7ead5a6"
+    },
+    {
+      "index": 97,
+      "filename": "2026-04-16_美股-股市新高任务完成逐渐慢下来对冲基金散户追涨泼瓢温水赌场修改规则迎小散波斯拉TSLA复活_gT4WvYkMKcQ.txt",
+      "filename_date": "2026-04-16",
+      "video_url": "https://www.youtube.com/watch?v=gT4WvYkMKcQ",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 5867,
+      "retrieved_text_sha256": "4e6af0557455ba291e2f237f8039a04f8a2c282cb8c37e8101b76e67a1526d22"
+    },
+    {
+      "index": 98,
+      "filename": "2026-08-22_美股-机构弹药见底下一步暴风雨平静TSLAIGVAVGO_0w77lIBdCn0.txt",
+      "filename_date": "2026-08-22",
+      "video_url": "https://www.youtube.com/watch?v=0w77lIBdCn0",
+      "source_type": "unverified historical transcript",
+      "correction_note_present": false,
+      "retrieved_characters": 6264,
+      "retrieved_text_sha256": "3c312abef25ede211dbc62ab650c0e387645f860a3f29e91e0b081e9a39576d8"
+    }
+  ],
+  "privacy_note": "Private Google Drive links omitted from this public export."
+}
