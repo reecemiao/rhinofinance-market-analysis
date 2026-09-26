@@ -1,9 +1,9 @@
 interface:
   display_name: RhinoFinance Market Analysis
-  short_description: Macro, valuation, flows and actionable stock analysis
-  default_prompt: Use $rhinofinance-market-analysis to analyze today’s stock market
-    and my selected stocks, with evidence, valuation, price-volume signals, and clear
-    action triggers.
+  short_description: Macro, valuation, flows and portfolio action plans
+  default_prompt: Use $rhinofinance-market-analysis to assess my stocks using current
+    evidence, forward valuation, price-volume signals, portfolio risk and clear entry,
+    exit or re-entry conditions.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

@@ -24,6 +24,47 @@ Separate four quantities: historical cost basis; current market price; estimated
 
 Treat defensive business characteristics separately from defensive valuation. Reliable demand or strong pricing power does not make an expensive stock drawdown-proof. Cash or a suitable short-duration alternative can be an explicit benchmark when no stock offers enough margin of safety; source any stated yield and product terms.
 
+## Diagnose weakness before calling it an opportunity
+
+Allow several causes to coexist. Name the evidence needed to distinguish them, rather than assigning one explanation to every company in a weak sector.
+
+| Hypothesis | Evidence and possible repair |
+|---|---|
+| Excess valuation or expectations | Earnings may still grow; test the price's implied assumptions and whether a lower price, earnings growth or multiple change restores an attractive forward return |
+| Structural competitive disruption | Track customer behavior, retention, pricing, share and monetization across reporting periods; a management denial or one good quarter may be insufficient |
+| Financing/counterparty stress | Test debt maturity, funding availability, recourse, contract enforceability and customer ability to pay; a large backlog does not solve a cash shortfall |
+| Deteriorating operating performance | Rebuild revenue, margin and cash-flow assumptions; repeated guidance cuts can invalidate an old cheap range |
+| Flow or liquidity pressure | Seek attributable holdings/flow/funding evidence; distinguish broad selling from issuer deterioration and do not declare the business healthy solely because the fall is sector-wide |
+
+Connect each diagnosis to a different decision-changing observation. Stabilizing prices can improve timing without repairing fundamentals. Improving fundamentals can justify value while the entry path remains adverse. Use the portfolio module for position-loss limits and re-entry after a failure. Source anchors: 102, 191, 199, 202, 215 and 231.
+
+## Translate the business model into earnings quality
+
+Use the appropriate operating drivers; extend this mapping with current company disclosures rather than forcing a software or semiconductor model onto every sector.
+
+| Business | Decision-relevant decomposition |
+|---|---|
+| Banks and brokers | Net interest income/margins and funding mix; trading/investment-banking fees; costs; provisions versus realized credit losses; capital and balance-sheet risk. A busy IPO market affects underwriting differently from deposit lending |
+| Property/casualty insurance | Premium growth and pricing, underwriting/combined ratio, catastrophe and reserve effects, investment income and capital. A benign catastrophe quarter can boost EPS without equivalent recurring operating growth |
+| Managed care and healthcare | Reimbursement, medical utilization/cost ratios for insurers; volumes/procedures, installed base/consumables or pipeline for the actual business. Do not treat all healthcare firms as one defensive exposure |
+| Consumer/retail | Comparable sales split into traffic and ticket, membership/renewal where relevant, margins, inventory, geography and nominal versus real growth |
+| Energy and industrial capacity | Commodity price, volume, margins, sustaining/growth capex and permitting/ramp time. Reserves or an announced market opening do not become immediate production or cash flow |
+| AI infrastructure and applications | Cash-paying demand, customer concentration, unit economics, funding and delivery constraints. Separate supplier revenue from the buyer's investment return |
+
+Source anchors: 117, 129, 131, 134–135, 182, 197 and 254. Some KPI detail is an implementation extension, not a claim that every item appears in each transcript.
+
+For earnings beats, explicitly bridge one-offs, working-capital release, investment gains, reserve changes and depreciation assumptions to recurring cash earnings. Do not extrapolate an unusual cash release, favorable claims season or extended asset life indefinitely. Compare an index earnings revision with constituent/sector contributions where data exist; an aggregate upgrade can conceal broad downgrades.
+
+## AI demand, funding and physical delivery
+
+Trace the chain separately: end-user use and willingness to pay → paying customer cash flow/funding → contracted purchases → power/site/permit/construction readiness → installed capacity/utilization → recognized supplier revenue and margins. Distinguish announced, contracted, funded, under-construction and operating capacity. A delay may shift revenue between years rather than permanently destroy demand; model both branches with evidence.
+
+Map equity investments, warrants, leases and vendor support without counting the same cash repeatedly as independent demand. Evaluate strategic validation and contingent dilution separately from delivered sales. Stress what happens when the customer cannot fund or use the promised capacity. Rising supplier revenue can coexist with worsening customer economics.
+
+For agents, identify workload mix (training, inference, orchestration, CPU, GPU, memory, storage and networking) instead of assuming every AI announcement benefits every hardware firm equally. App downloads or free usage do not establish paid adoption. For platform competition, test traffic capture, conversion, fees, advertising, customer ownership and access restrictions. An intermediary can redirect value or expand the overall market; show which unit economics support the conclusion. Lower model prices can increase usage while reducing revenue per task.
+
+Keep two review clocks: near-term capex/order execution and later customer monetization/funding sustainability. Do not hard-code the source's historical next-quarter turning point. Source anchors: 115, 123–124, 140, 164, 173, 198, 206, 216, 253–254, alongside the original April–August examples.
+
 ## Scenario arithmetic
 
 For scenarios with a common horizon H in years and the same valuation currency:

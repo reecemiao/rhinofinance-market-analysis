@@ -16,6 +16,14 @@ Distinguish Treasury debt issuance, Treasury cash-management buybacks, Fed asset
 
 For AI/capex cycles, link customer monetization and cash generation → capex and financing → supplier revenue, margin and backlog → earnings expectations and index concentration. Test circular financing, counterparty/customer concentration, funding maturity, debt-service burden, utilization and pricing. A capex growth slowdown is not necessarily a spending decline; a backlog/order announcement is not immediately recognized revenue or free cash flow.
 
+## Policy and physical shocks: magnitude and duration
+
+Separate an announcement, legal authority, final decision, implementation date and realized economic effect. A proposed tariff, stayed judgment, reimbursement proposal or political statement is not an implemented rule. Specify which revenue/cost/geography is exposed, pass-through ability and offsetting actions. Verify current legal and regulatory claims using authoritative sources when applying this method.
+
+For an energy or supply disruption, build short-disruption, prolonged-disruption and recovery branches. Make valuations conditional on the magnitude and duration of lost supply, inventories/alternative routes, demand response, inflation/real-income effects, monetary response and credit conditions. Distinguish oil reserves from deliverable production and a ceasefire from restored shipping, insurance and physical supply. Do not infer the timing of a political settlement from the level of an equity index.
+
+Record the assumption that makes a valuation range usable: for example, supply normalizes within a specified window. If the window expires, rebuild earnings and discount-rate assumptions instead of extending the same price floor. Historical oil crises and fast recoveries can inform stresses, but different starting valuations, inflation, leverage and policy responses limit comparability. Source anchors: 99, 145, 182–184, 214, 220, 225, 227–240, 244–247.
+
 ## Flow evidence hierarchy
 
 | Evidence | What it can show | Required limits |
@@ -39,3 +47,7 @@ VIX concerns option-implied S&P 500 volatility, not a direct probability of decl
 For bubble/cycle questions, compare evidence on valuation, earnings expectations, concentration, issuance, positioning/leverage, volatility and realized fundamentals; show both extreme and non-extreme readings. Separate investment share of GDP, change in that share, growth rate and contribution to GDP growth. Historical resemblance suggests hypotheses, not a crisis date or causal proof. State each proxy's observation window, sample coverage and alternative explanations.
 
 For 13F interpretation, refresh the [SEC's Form 13F FAQ](https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions/frequently-asked-questions-about-form-13f), especially questions 25 and 41–44. For reported Treasury transactions, use [TreasuryDirect buyback announcements and results](https://www.treasurydirect.gov/auctions/announcements-data-results/buy-backs/) and distinguish announced capacity from accepted purchases.
+
+For a proposed self-reinforcing rally or liquidation, distinguish observed evidence from a modeled chain: price/volatility → hedging or systematic adjustment → liquidity/price impact → next threshold. Track the as-of time and expiry of each trigger; a historical threshold is not permanent. Distinguish unhedged downside exposure, expensive new hedges, short covering and fresh long buying. Compare positioning percentiles only with the same lookback and universe: a one-year high can coexist with a low five-year percentile. Low net exposure can still hide high gross leverage. Source anchors: 192, 205, 210, 212, 226, 238, 249 and 253.
+
+For private-credit spillovers, identify the precise vehicle, underlying assets, leverage, redemption terms and credit event. A listed closed-end vehicle's share sale is not a redemption of the underlying loan portfolio. Loan exposure to software does not establish that a fund owns or must sell listed software stocks. Mark an unproven forced-selling chain as a hypothesis and seek filings, holdings and attributable flow evidence before making a causal claim. Source anchors: 202, 213–214, 219, 224 and 227; this evidentiary separation is an implementation safeguard.

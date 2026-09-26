@@ -21,10 +21,13 @@ Use the user's language and requested depth. Keep the reasoning conversational, 
 | Scenarios | Bear/base/bull outcomes and returns if useful; subjective weights only if warranted |
 | Timing | Trend, relative volume/strength, entry/confirmation zone and next objective |
 | Risk | Business thesis break, valuation risk and distinct tactical invalidation |
+| Portfolio fit, if relevant | Current exposure, common-driver overlap, scenario loss and conditional size/funding; retain attractive names despite concentration warnings |
 | Action alternatives | Why preferred action beats adding/holding/trimming now; what reverses it |
 | Next check | Dated catalyst or objective evidence/price trigger; unresolved inputs |
 
 Do not force an exact buy price when data do not support one. A holding decision must earn its place through prospective return, transaction friction or catalyst timing; a wait decision needs a condition and review point. Avoid a blanket hold bias or a forced buy/sell bias.
+
+For portfolio comparisons, show security attractiveness and portfolio implementation separately. Compare the candidate, incumbent and cash/wait using a common horizon. For additions, specify tranche conditions and total commitment; for exits, identify technical, portfolio-budget or fundamental reasons. For a prior loss, include the old rule, whether it triggered, what is now known, and fresh re-entry/replacement criteria. Do not let the presenter's historical portfolio determine the user's allocation.
 
 ## Earnings/catalyst review
 

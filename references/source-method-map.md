@@ -1,10 +1,14 @@
 # Source basis
 
-This skill is derived from the 99 text files in the user's Google Drive folder RhinoFinance-corrected, inspected on 2026-09-19. Filename dates span 2026-04-16 to 2026-09-18. The reports identify the presenter as Rhino of 视野环球财经 and include original video links.
+This skill is derived from all 258 files in the RhinoFinance-corrected source collection, inspected on 2026-09-26: 255 transcripts and three correction/reference files. Transcript filename dates span 2025-08-30 to 2026-09-23. The reports identify the presenter as Rhino of 视野环球财经 and include original video links.
 
 Use the distilled methods for new research. Original numeric claims, policies, events, holdings and market forecasts are historical source assertions; this skill does not certify them. The correction notes preserve unresolved audio/chart ambiguities and explicitly say the audio was not checked sentence by sentence. A filename date may be one day later than the spoken US market date.
 
-The full source catalog is maintained in [source-catalog.json](source-catalog.json). Read it only when tracing a method, identifying a report, or refreshing the source corpus. Private Google Drive URLs are omitted from this public export. Use the catalog’s public video links, or request authorized access to the original transcripts; the skill does not require re-reading all 99 files on every invocation. The original transcripts are not bundled into the skill. All 99 files were read in full; the retrieved UTF-8 byte total, 2,181,075, matched the folder's file-size total. There were no subfolders or unreadable files in that inventory; 89 files carried explicit correction notes.
+The full source catalog is maintained in [source-catalog.json](source-catalog.json). Read it only when tracing a method, identifying a report, or refreshing the corpus. Search its filename, video URL, stable index, method tags and review notes, then use the public video reference or an authorized copy of the source file. Private Google Drive links and IDs are omitted from this public export. Original transcripts are not bundled and routine investment analysis does not require rereading the collection.
+
+All 258 files were retrieved completely: the UTF-8 total of 5,131,361 bytes matched Drive's reported size for every file. There were no subfolders, unreadable files or size mismatches. Review used a full-text thematic scan of every transcript, selected-passage and chronological-sequence review, and complete review of the three auxiliary documents. This is not a claim of sentence-by-sentence factual or audio validation. Forty-one transcripts carry inline correction notes. The auxiliary README names four JSON resources absent from this folder; see the source-quality reference for those limits.
+
+The refresh matched all 99 previously cataloged transcripts and added 156 transcripts plus three auxiliary files. All 99 matching transcripts now have different Drive IDs and text hashes following the newer correction upload. Indices 0–98 remain stable; new transcripts use 99–254 and auxiliary files 255–257. Treat replacement versions of one video as one source, not additional independent evidence.
 
 ## Methods to preserve
 
@@ -39,4 +43,22 @@ Indices below refer to the catalog; dates are filename dates, not necessarily US
 | Market mechanics | 61 (May 30), 51–52 (June 12–13), 47 (June 19), 43 (June 27), 41 (July 3) | Rebalances, expiry, float, unlocks, options listing and order-book depth can confound ordinary chart interpretations. |
 | Portfolio purpose and defensive valuation | 91 (April 17), 74 (May 12), 65 (May 23), 95 (July 1), 11 (September 2) | A concentration trim need not be bearish; entry discipline, time horizon and cash alternatives matter even for strong businesses. |
 
-The scenario calculator, formal event-study checklist, explicit source hierarchy and stricter probability/causality checks are implementation improvements added to make the distilled approach reproducible. They are not claimed to be the original presenter's proprietary model. The exact historical valuation coefficients and chart construction cannot be reconstructed when the referenced visuals or underlying data are absent.
+## Expanded methods from the earlier cycle and latest files
+
+Dates in this table include the year. Follow the catalog's current links; preserve the author's uncertainty and distinguish a reported action from a verified brokerage transaction.
+
+| Method | Source examples | Reusable lesson |
+|---|---|---|
+| Diagnose sector weakness by company | 191 (2026-01-17), 199 (01-30), 202 (02-04) | Separate overvaluation, disruption, debt/funding, deteriorating growth and possible flow amplification; each requires different repair evidence. |
+| Risk limits, failure and reassessment | 202 (2026-02-04) → 208 (02-12) → 215 (02-24) → 218 (02-27) → 223 (03-06) | Record the announced stop, reported loss and continuing research; compare re-entry with a substitute after new evidence. Do not erase a failed plan after a rebound. |
+| Core versus tactical exposure | 127 (2025-10-11), 151 (11-14), 165 (12-06), 179 (12-31), 231 (2026-03-18), 237 (03-27) | Separate partial rolling, full thesis exit, long holding periods and loss tolerance. A planned price plus stabilization is different from an unconditional limit order. |
+| Future-year valuation and earnings revisions | 106 (2025-09-11), 131 (10-17), 135 (10-23), 179 (12-31), 250 (2026-08-01) | Compare fiscal dates and the period already priced in; time roll-forward is not an earnings upgrade, and cyclical growth does not justify a permanent high multiple. |
+| Earnings quality beyond EPS beats | 117 (2025-09-26), 129 (10-15), 131 (10-17), 134–135 (10-22/23), 197 (2026-01-28) | Examine bank revenue/provisions, insurance underwriting versus catastrophe/investment effects, retail KPIs and one-time working-capital cash releases. |
+| Physical constraints and AI funding | 115 (2025-09-24), 123–124 (10-07/08), 140 (10-30), 164 (12-05), 173 (12-18), 198 (2026-01-29), 206 (02-10), 216 (02-25), 254 (09-23) | Trace funds, customer obligations, delivery/power/permits and recognized revenue; distinguish customer economics from supplier growth. |
+| Agents and value capture | 253–254 (2026-09-22/23) | Map workload and hardware demand, paid adoption and platform access/transaction economics; product popularity alone does not establish profits. |
+| Policy status and supply-shock duration | 99 (2025-08-30), 145 (11-06), 182–184 (2026-01-06/08), 214 (02-21), 220 (03-03), 227–240 (03-12 to 04-01), 244–247 (04-08/11) | Distinguish legal/political headlines from implementation and restored physical supply; revisit valuations when a time-bound normalization assumption fails. |
+| Recovery confirmation and flow feedback | 192 (2026-01-21), 205 (02-07), 210 (02-14), 212 (02-19), 226 (03-11), 238 (03-28), 249 (04-15), 253 (09-22) | Track hedging, leverage, provider vintage and trigger expiry; distinguish selling exhaustion, short covering, new longs and a confirmed breakout. |
+| Credit spillovers | 202 (2026-02-04), 213–214 (02-20/21), 219 (02-28), 224 (03-07), 227 (03-12) | Investigate asset, vehicle, liquidity and funding links; avoid treating private loans, listed fund shares and public-equity positions as the same exposure. |
+| Correction and vocabulary provenance | 255–257 (prepared 2026-09-23) | Use recurring terminology to interpret text while retaining unresolved ticker, date, interval and unit ambiguities. |
+
+The scenario calculator, formal event-study checklist, explicit source hierarchy, scenario-loss arithmetic, sector KPI extensions and stricter probability/causality checks are implementation improvements. Keeping attractive candidates visible while showing concentration separately implements the user's preference. These are not claimed to be the presenter's proprietary model. Do not inherit the presenter's personal position limits, fixed VIX bands, short-term bounce frequencies or cost-basis comfort as universal rules. Exact historical valuation coefficients and chart construction cannot be reconstructed when referenced visuals or underlying data are absent.
